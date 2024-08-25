@@ -1,0 +1,23 @@
+{
+  "name": "samplebe",
+  "version": "1.0.0",
+  "description": "it is a just sample repository to deploy in vercel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-Raven/sampleBackend.git"
+  },
+  "author": "Coder-Raven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coder-Raven/sampleBackend/issues"
+  },
+  "homepage": "https://github.com/Coder-Raven/sampleBackend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
